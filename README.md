@@ -1,2 +1,2 @@
-username : radithya
-password : adminganteng
+- username : radithya
+- password : adminganteng
